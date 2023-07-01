@@ -2,7 +2,7 @@
 
 # Devops_Tooling_website_Solution
 Set of tools that will help a DevOps team in day to day activities in managing, developing, testing, deploying and monitoring different project.
-New 
+This is very essential to the team 
 
 ## **ARCHTECTURAL DESIGN**
 
