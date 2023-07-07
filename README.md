@@ -2,7 +2,7 @@
 
 # Devops_Tooling_website_Solution
 Set of tools that will help a DevOps team in day to day activities in managing, developing, testing, deploying and monitoring different project.
-This is very essential to the team of developers
+This is very essential to the team of developers.
 
 ## **ARCHTECTURAL DESIGN**
 
@@ -369,4 +369,4 @@ Now we can open our web browser and enter
 
 ![Screenshot from 2023-03-14 14-18-32](https://user-images.githubusercontent.com/77943759/225014338-68d07cc2-58bb-4c81-9f31-df502ee83db3.png)
 
-We have just successfully implemented a web solution for a DevOps team using LAMP stack with remote Database and NFS servers. Build
+We have just successfully implemented a web solution for a DevOps team using LAMP stack with remote Database and NFS servers. 
